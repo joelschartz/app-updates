@@ -1,1 +1,20 @@
-{}
+{
+  "schema": 1,
+  "app": "entretienconnect",
+  "build": 415,
+  "label": "vG215",
+  "published": "2026-09-05",
+  "notes": "EntretienConnect meldet ab jetzt selbst, wenn eine neue Version bereitsteht.",
+  "platforms": {
+    "macos": {
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG215/EntretienConnect-macOS-vG215.zip",
+      "sha256": "a89f766e1a395c9d60f4714279ebb85638a3ef84ef2c4dec397e53ab9f126191",
+      "bytes": 24567407
+    },
+    "windows": {
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG215/EntretienConnect-Windows-vG215.zip",
+      "sha256": "9e6a3f0cb5bfd7315f934c13d8b7693a7f0ca45564c3a025622d504b7e1a3a9f",
+      "bytes": 16507021
+    }
+  }
+}
