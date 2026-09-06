@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "entretienconnect",
-  "build": 415,
-  "label": "vG215",
-  "published": "2026-09-05",
-  "notes": "EntretienConnect meldet ab jetzt selbst, wenn eine neue Version bereitsteht.",
+  "build": 416,
+  "label": "vG216",
+  "published": "2026-09-06",
+  "notes": "Nouveau : rechercher des mises à jour depuis « À propos ».",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG215/EntretienConnect-macOS-vG215.zip",
-      "sha256": "a89f766e1a395c9d60f4714279ebb85638a3ef84ef2c4dec397e53ab9f126191",
-      "bytes": 24567407
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG216/EntretienConnect-macOS-vG216.zip",
+      "sha256": "c52f03563acfc837a6348dfeacc7a2d74480e8512c92bb5d0725dd084a264a9e",
+      "bytes": 24567728
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG215/EntretienConnect-Windows-vG215.zip",
-      "sha256": "9e6a3f0cb5bfd7315f934c13d8b7693a7f0ca45564c3a025622d504b7e1a3a9f",
-      "bytes": 16507021
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG216/EntretienConnect-Windows-vG216.zip",
+      "sha256": "11800741a5f0431039d7b165b841b702af2c37c49414b6e28c498d28f17e9757",
+      "bytes": 16510971
     }
   }
 }
