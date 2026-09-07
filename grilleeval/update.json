@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "grilleeval",
-  "build": 86,
-  "label": "v3.8.57",
+  "build": 87,
+  "label": "v3.8.58",
   "published": "2026-09-07",
-  "notes": "Récupération du travail non enregistré après un arrêt inattendu. Confirmations avant toute suppression. Corrections de calcul.",
+  "notes": "Import e-Bichelchen : connexion visible et arrêt automatique en cas de blocage. Confirmations plus claires avant toute suppression. Noms avec accents mieux reconnus.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.57/GrilleEval-macOS-v3.8.57.zip",
-      "sha256": "93b3359d239ece9e8cf938f405239bbc91f3729641d3aaa010f4a69ba706a331",
-      "bytes": 19065213
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.58/GrilleEval-macOS-v3.8.58.zip",
+      "sha256": "a972afcba19a710b10e9168a6edcf9b299844eeb3239504df5e360102690f4ed",
+      "bytes": 19074189
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.57/GrilleEval-Windows-v3.8.57.zip",
-      "sha256": "e4bcba7ff2950641d75dc76662606da0147f4f72ecc37c7f1b212720563658aa",
-      "bytes": 14369819
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.58/GrilleEval-Windows-v3.8.58.zip",
+      "sha256": "61b90775839888386e417e0ce20440d81c9a77f58703005c81609aae6070e818",
+      "bytes": 14373421
     }
   }
 }
