@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "grilleeval",
-  "build": 85,
-  "label": "v3.8.56",
-  "published": "2026-09-06",
-  "notes": "Nouveau : rechercher des mises à jour depuis « À propos ».",
+  "build": 86,
+  "label": "v3.8.57",
+  "published": "2026-09-07",
+  "notes": "Récupération du travail non enregistré après un arrêt inattendu. Confirmations avant toute suppression. Corrections de calcul.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.56/GrilleEval-macOS-v3.8.56.zip",
-      "sha256": "0cb18ace5c7a21f5ca9c29cff9924f5f08348d50ae3f17ac85e6cd576068656c",
-      "bytes": 19035637
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.57/GrilleEval-macOS-v3.8.57.zip",
+      "sha256": "93b3359d239ece9e8cf938f405239bbc91f3729641d3aaa010f4a69ba706a331",
+      "bytes": 19065213
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.56/GrilleEval-Windows-v3.8.56.zip",
-      "sha256": "e80c286e90d62c96186a5eab2ceaf24d679973a86ff84f6c330f8bdea21b0bc2",
-      "bytes": 14353675
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.57/GrilleEval-Windows-v3.8.57.zip",
+      "sha256": "e4bcba7ff2950641d75dc76662606da0147f4f72ecc37c7f1b212720563658aa",
+      "bytes": 14369819
     }
   }
 }
