@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "entretienconnect",
-  "build": 417,
-  "label": "vG217",
+  "build": 418,
+  "label": "vG218",
   "published": "2026-09-07",
-  "notes": "Confirmations avant toute suppression. Sauvegardes fiables. Heure des rappels corrigée. Messages d’erreur en français.",
+  "notes": "Envoi : toute interruption est signalée avec le détail de ce qui est parti. Import CSV : la langue des élèves déjà présents n’est plus écrasée. Horaires : confirmation avant de réduire une plage occupée.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG217/EntretienConnect-macOS-vG217.zip",
-      "sha256": "3e6a1a0bb1c0a85a54350d112ce26c6931742dc1e2dd4abcddb83522508694a3",
-      "bytes": 24579585
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG218/EntretienConnect-macOS-vG218.zip",
+      "sha256": "26e53ec6e9ebfbb783329a850ef0f0a41696c681b2bb66f315b93d681289a59b",
+      "bytes": 24586387
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG217/EntretienConnect-Windows-vG217.zip",
-      "sha256": "ac0363e560acef22e261a5eb5ec657f7333cbcf413cde6ae36c0e7a7c26bab3c",
-      "bytes": 16521725
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG218/EntretienConnect-Windows-vG218.zip",
+      "sha256": "b37cfdd7b11722f16688eae14d0cc5d80d3c12d8496b9d0d055f53a74cdf435c",
+      "bytes": 16525656
     }
   }
 }
