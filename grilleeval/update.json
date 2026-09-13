@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "grilleeval",
-  "build": 87,
-  "label": "v3.8.58",
-  "published": "2026-09-07",
-  "notes": "Import e-Bichelchen : connexion visible et arrêt automatique en cas de blocage. Confirmations plus claires avant toute suppression. Noms avec accents mieux reconnus.",
+  "build": 120,
+  "label": "v3.10.0",
+  "published": "2026-09-13",
+  "notes": "Une seule source pour Mac, Windows et iPad. Le sélecteur de date et le menu de sélection de texte sont désormais en français. La colonne des pourcentages s'intitule « % » et n'est plus tronquée.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.58/GrilleEval-macOS-v3.8.58.zip",
-      "sha256": "a972afcba19a710b10e9168a6edcf9b299844eeb3239504df5e360102690f4ed",
-      "bytes": 19074189
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.10.0/GrilleEval-macOS-v3.10.0.zip",
+      "sha256": "3755fbb5b053fc631186351128c4de58c7a94e93ed24ad1800fd974846310bb2",
+      "bytes": 19676301
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.8.58/GrilleEval-Windows-v3.8.58.zip",
-      "sha256": "61b90775839888386e417e0ce20440d81c9a77f58703005c81609aae6070e818",
-      "bytes": 14373421
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.10.0/GrilleEval-Windows-v3.10.0.zip",
+      "sha256": "3c8f39a4de57cf55725aa8fc543b4ff711daf6067259fe3aa5c949ebbe496cff",
+      "bytes": 14682167
     }
   }
 }
