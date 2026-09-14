@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "grilleeval",
-  "build": 122,
-  "label": "v3.11.0",
+  "build": 123,
+  "label": "v3.11.1",
   "published": "2026-09-14",
-  "notes": "Les points saisis ne sont plus réécrits : une valeur comme 4,95 reste 4,95, l’affichage suit la précision enregistrée et deux résultats identiques reçoivent le même rang. Une saisie que l’application ne comprend pas (« 7,,5 ») est signalée au lieu d’être écartée en silence. Sur iPad, les boutons-symboles atteignent les 44 points requis, l’aide du format CSV s’ouvre d’une simple touche et les dialogues se replient correctement en Split View.",
+  "notes": "Les points saisis ne sont plus réécrits : 4,95 reste 4,95 et un quart de point reste un quart de point — dans la saisie, dans les totaux et dans le PDF. Deux résultats identiques reçoivent le même rang, et une saisie que l’application ne comprend pas est signalée au lieu d’être écartée en silence. Sur iPad, les boutons-symboles sont plus faciles à atteindre, l’aide du format CSV s’ouvre d’une simple touche et les dialogues se replient correctement en Split View.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.0/GrilleEval-macOS-v3.11.0.zip",
-      "sha256": "0a57eea10a60b8ecfec6919704d32b8d3d5602cb21a50b8451eb6e2bba6abeb0",
-      "bytes": 19699862
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.1/GrilleEval-macOS-v3.11.1.zip",
+      "sha256": "fe694c023f4623b0bc526b9f0a87e3eb28fb324b8a8db785d4bd4bd164d5a363",
+      "bytes": 19699739
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.0/GrilleEval-Windows-v3.11.0.zip",
-      "sha256": "58a44a825bf117fb6967d374bef7292fa0471575c8efd3177bedc2c7c9b46472",
-      "bytes": 14609123
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.1/GrilleEval-Windows-v3.11.1.zip",
+      "sha256": "789f7ed249e6ef372d797598c071e126069ab5430873b39f06d18f8c3d374594",
+      "bytes": 14608970
     }
   }
 }
