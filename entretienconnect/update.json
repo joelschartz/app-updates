@@ -1,1 +1,20 @@
-{"schema": 1, "app": "entretienconnect", "build": 419, "label": "vG219", "published": "2026-09-13", "notes": "Les noms d'élèves sont comparés sans tenir compte des accents, des traits d'union ni de l'ordre prénom/nom, à la saisie comme à l'import.", "platforms": {"macos": {"url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG219/EntretienConnect-macOS-vG219.zip", "sha256": "4f11a668cc0e226a2fe5d4ca7ed1ea35b1700db3bd710c7b6116d68f4a1c0d03", "bytes": 24587153}, "windows": {"url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG219/EntretienConnect-Windows-vG219.zip", "sha256": "a6264bfe43fa5c0a0905823b41045b2396a9e7a89b822a1a2ea23a04b3fbce9d", "bytes": 16525458}}}
+{
+  "schema": 1,
+  "app": "entretienconnect",
+  "build": 420,
+  "label": "vG220",
+  "published": "2026-09-14",
+  "notes": "La connexion e-Bichelchen se conserve plus longtemps : une réponse lente du serveur n’est plus prise pour une session expirée. Et lorsqu’une page ne se charge pas, la fenêtre indique pourquoi, en français.",
+  "platforms": {
+    "macos": {
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG220/EntretienConnect-macOS-vG220.zip",
+      "sha256": "58e5ccd61212fe24b4710e5cca080859b5a3cca7d8d713d0510ca74c88ce29b3",
+      "bytes": 24605378
+    },
+    "windows": {
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG220/EntretienConnect-Windows-vG220.zip",
+      "sha256": "a04ccb61e50fd62e9448df51ae6a97cd01a64fd7a077657bb060303744db844c",
+      "bytes": 16527129
+    }
+  }
+}
