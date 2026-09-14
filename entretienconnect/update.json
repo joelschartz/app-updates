@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "entretienconnect",
-  "build": 420,
-  "label": "vG220",
+  "build": 421,
+  "label": "vG221",
   "published": "2026-09-14",
-  "notes": "La connexion e-Bichelchen se conserve plus longtemps : une réponse lente du serveur n’est plus prise pour une session expirée. Et lorsqu’une page ne se charge pas, la fenêtre indique pourquoi, en français.",
+  "notes": "L’import demande maintenant : si la liste contient déjà des élèves, une question indique combien arrivent et combien y figurent déjà, avec le choix d’ajouter ou de remplacer la liste. Et lorsque la session e-Bichelchen a expiré, l’application le dit.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG220/EntretienConnect-macOS-vG220.zip",
-      "sha256": "58e5ccd61212fe24b4710e5cca080859b5a3cca7d8d713d0510ca74c88ce29b3",
-      "bytes": 24605378
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG221/EntretienConnect-macOS-vG221.zip",
+      "sha256": "aab0608c22c872c57de498f660ad0eb88d21f9b34abff5a7229e7d0e914e6177",
+      "bytes": 24607978
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG220/EntretienConnect-Windows-vG220.zip",
-      "sha256": "a04ccb61e50fd62e9448df51ae6a97cd01a64fd7a077657bb060303744db844c",
-      "bytes": 16527129
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG221/EntretienConnect-Windows-vG221.zip",
+      "sha256": "df5be99b1d81d151a67e347d85c60f444aad11b9b1f89e1597b11bea7ba42783",
+      "bytes": 16534167
     }
   }
 }
