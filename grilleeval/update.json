@@ -1,1 +1,20 @@
-{"schema": 1, "app": "grilleeval", "build": 121, "label": "v3.10.1", "published": "2026-09-13", "notes": "Import de classe : la liste existante n'est plus complétée en silence. Une question indique combien d'élèves arrivent, combien y figurent déjà, et propose d'ajouter ou de remplacer. Les noms sont désormais comparés sans tenir compte des accents, des traits d'union ni de l'ordre prénom/nom.", "platforms": {"macos": {"url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.10.1/GrilleEval-macOS-v3.10.1.zip", "sha256": "ce8366456833628d7992b87e113efeb3d46003cc9428d5730d28009536eedeb1", "bytes": 19695686}, "windows": {"url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.10.1/GrilleEval-Windows-v3.10.1.zip", "sha256": "4c2afa55e5f63713e0b76ee094a0a66de908601a33ea65306c8dfac801a4aca6", "bytes": 14685754}}}
+{
+  "schema": 1,
+  "app": "grilleeval",
+  "build": 122,
+  "label": "v3.11.0",
+  "published": "2026-09-14",
+  "notes": "Les points saisis ne sont plus réécrits : une valeur comme 4,95 reste 4,95, l’affichage suit la précision enregistrée et deux résultats identiques reçoivent le même rang. Une saisie que l’application ne comprend pas (« 7,,5 ») est signalée au lieu d’être écartée en silence. Sur iPad, les boutons-symboles atteignent les 44 points requis, l’aide du format CSV s’ouvre d’une simple touche et les dialogues se replient correctement en Split View.",
+  "platforms": {
+    "macos": {
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.0/GrilleEval-macOS-v3.11.0.zip",
+      "sha256": "0a57eea10a60b8ecfec6919704d32b8d3d5602cb21a50b8451eb6e2bba6abeb0",
+      "bytes": 19699862
+    },
+    "windows": {
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.0/GrilleEval-Windows-v3.11.0.zip",
+      "sha256": "58a44a825bf117fb6967d374bef7292fa0471575c8efd3177bedc2c7c9b46472",
+      "bytes": 14609123
+    }
+  }
+}
