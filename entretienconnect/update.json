@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "entretienconnect",
-  "build": 421,
-  "label": "vG221",
-  "published": "2026-09-14",
-  "notes": "L’import demande maintenant : si la liste contient déjà des élèves, une question indique combien arrivent et combien y figurent déjà, avec le choix d’ajouter ou de remplacer la liste. Et lorsque la session e-Bichelchen a expiré, l’application le dit.",
+  "build": 422,
+  "label": "vG222",
+  "published": "2026-09-20",
+  "notes": "La question « Ajouter / Remplacer » apparaît désormais aussi après une connexion à e-Bichelchen. Elle manquait lorsqu’un message rouge était affiché juste avant : les élèves étaient alors ajoutés sans que rien ne le dise.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG221/EntretienConnect-macOS-vG221.zip",
-      "sha256": "aab0608c22c872c57de498f660ad0eb88d21f9b34abff5a7229e7d0e914e6177",
-      "bytes": 24607978
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG222/EntretienConnect-macOS-vG222.zip",
+      "sha256": "37a01171ee9dc6e913eace310a8c00dd7123354266057976ddce18eb617c1f11",
+      "bytes": 24612126
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG221/EntretienConnect-Windows-vG221.zip",
-      "sha256": "df5be99b1d81d151a67e347d85c60f444aad11b9b1f89e1597b11bea7ba42783",
-      "bytes": 16534167
+      "url": "https://github.com/joelschartz/app-updates/releases/download/entretienconnect-vG222/EntretienConnect-Windows-vG222.zip",
+      "sha256": "f0a347a3906483f49a4af4d792deb13bb3545d795b598c8ed35caecbf09f8e1e",
+      "bytes": 16536535
     }
   }
 }
