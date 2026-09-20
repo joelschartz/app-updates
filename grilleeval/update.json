@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "grilleeval",
-  "build": 123,
-  "label": "v3.11.1",
-  "published": "2026-09-14",
-  "notes": "Les points saisis ne sont plus réécrits : 4,95 reste 4,95 et un quart de point reste un quart de point — dans la saisie, dans les totaux et dans le PDF. Deux résultats identiques reçoivent le même rang, et une saisie que l’application ne comprend pas est signalée au lieu d’être écartée en silence. Sur iPad, les boutons-symboles sont plus faciles à atteindre, l’aide du format CSV s’ouvre d’une simple touche et les dialogues se replient correctement en Split View.",
+  "build": 124,
+  "label": "v3.11.2",
+  "published": "2026-09-20",
+  "notes": "Les tableaux qui s’étendent vers la droite — « Évaluation », le diagramme en colonnes et les compétences dans « Résultats » — affichent maintenant une barre de défilement dès que la souris s’en approche, et elle se laisse tirer. La fenêtre se ferme aussi plus vite.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.1/GrilleEval-macOS-v3.11.1.zip",
-      "sha256": "fe694c023f4623b0bc526b9f0a87e3eb28fb324b8a8db785d4bd4bd164d5a363",
-      "bytes": 19699739
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.2/GrilleEval-macOS-v3.11.2.zip",
+      "sha256": "4c1b606019bd10a99140e2a0856e28cf8513e4082034b49d6ae8e36c3799240f",
+      "bytes": 19712531
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.1/GrilleEval-Windows-v3.11.1.zip",
-      "sha256": "789f7ed249e6ef372d797598c071e126069ab5430873b39f06d18f8c3d374594",
-      "bytes": 14608970
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.2/GrilleEval-Windows-v3.11.2.zip",
+      "sha256": "5fd50b8b8e8fb3265660664b173f3fdd4a4a56f9f3ee86f35f7e31605f7937dc",
+      "bytes": 14613662
     }
   }
 }
