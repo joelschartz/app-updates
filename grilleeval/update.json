@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "app": "grilleeval",
-  "build": 124,
-  "label": "v3.11.2",
-  "published": "2026-09-20",
-  "notes": "Les tableaux qui s’étendent vers la droite — « Évaluation », le diagramme en colonnes et les compétences dans « Résultats » — affichent maintenant une barre de défilement dès que la souris s’en approche, et elle se laisse tirer. La fenêtre se ferme aussi plus vite.",
+  "build": 125,
+  "label": "v3.11.3",
+  "published": "2026-09-21",
+  "notes": "Sous Windows, la connexion à e-Bichelchen passe désormais par un vrai navigateur : la fenêtre était trop étroite et le bouton d’identification restait sans effet. macOS et iPad sont inchangés.",
   "platforms": {
     "macos": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.2/GrilleEval-macOS-v3.11.2.zip",
-      "sha256": "4c1b606019bd10a99140e2a0856e28cf8513e4082034b49d6ae8e36c3799240f",
-      "bytes": 19712531
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.3/GrilleEval-macOS-v3.11.3.zip",
+      "sha256": "e56e11306309e1c536b419602e257189e1827126dc460bf7888b319a66047250",
+      "bytes": 19712379
     },
     "windows": {
-      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.2/GrilleEval-Windows-v3.11.2.zip",
-      "sha256": "5fd50b8b8e8fb3265660664b173f3fdd4a4a56f9f3ee86f35f7e31605f7937dc",
-      "bytes": 14613662
+      "url": "https://github.com/joelschartz/app-updates/releases/download/grilleeval-v3.11.3/GrilleEval-Windows-v3.11.3.zip",
+      "sha256": "4aa2870025ccf179c16f4560a50b445285b26e8dbf395fb2f5916bc9766868ce",
+      "bytes": 14682043
     }
   }
 }
